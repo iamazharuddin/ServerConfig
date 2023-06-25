@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "13E9905C-4459-409C-8CB1-D97EF7760D93"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "848268EA-0BD8-4F38-AA12-8D9DCAAAE8B0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ServerConfig/ServerConfig.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "setupConfig()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "848268EA-0BD8-4F38-AA12-8D9DCAAAE8B0 - b158bbf0e8c1ad52"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ServerConfig.ServerConfig.setupConfig() -&gt; ()"
+                  moduleName = "ServerConfig"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/azharuddin1/Documents/iOS/ServerConfig/ServerConfig/ServerConfig.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "848268EA-0BD8-4F38-AA12-8D9DCAAAE8B0 - b158bbf0e8c1adb3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ServerConfig.ServerConfig.setupConfig() -&gt; ()"
+                  moduleName = "ServerConfig"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/azharuddin1/Documents/iOS/ServerConfig/ServerConfig/ServerConfig.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "848268EA-0BD8-4F38-AA12-8D9DCAAAE8B0 - b158bbf0e8c1ad75"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ServerConfig.ServerConfig.setupConfig() -&gt; ()"
+                  moduleName = "ServerConfig"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/azharuddin1/Documents/iOS/ServerConfig/ServerConfig/ServerConfig.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C6048F5-7634-4F4C-A115-0A043473AC98"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ServerConfig/ServerConfig.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "setupConfig()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8C6048F5-7634-4F4C-A115-0A043473AC98 - b158bbf0e8c1ad14"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ServerConfig.ServerConfig.setupConfig() -&gt; ()"
+                  moduleName = "ServerConfig"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/azharuddin1/Documents/iOS/ServerConfig/ServerConfig/ServerConfig.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "8C6048F5-7634-4F4C-A115-0A043473AC98 - b158bbf0e8c1ad37"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ServerConfig.ServerConfig.setupConfig() -&gt; ()"
+                  moduleName = "ServerConfig"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/azharuddin1/Documents/iOS/ServerConfig/ServerConfig/ServerConfig.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "8C6048F5-7634-4F4C-A115-0A043473AC98 - b158bbf0e8c1ad75"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ServerConfig.ServerConfig.setupConfig() -&gt; ()"
+                  moduleName = "ServerConfig"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/azharuddin1/Documents/iOS/ServerConfig/ServerConfig/ServerConfig.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DCE3453-C4A7-4AD1-B428-9BB033371710"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ServerConfig/ServerConfig.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "setupConfig()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0DCE3453-C4A7-4AD1-B428-9BB033371710 - b158bbf0e8c1ad14"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ServerConfig.ServerConfig.setupConfig() -&gt; ()"
+                  moduleName = "ServerConfig"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/azharuddin1/Documents/iOS/ServerConfig/ServerConfig/ServerConfig.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "0DCE3453-C4A7-4AD1-B428-9BB033371710 - b158bbf0e8c1ad37"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ServerConfig.ServerConfig.setupConfig() -&gt; ()"
+                  moduleName = "ServerConfig"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/azharuddin1/Documents/iOS/ServerConfig/ServerConfig/ServerConfig.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "0DCE3453-C4A7-4AD1-B428-9BB033371710 - b158bbf0e8c1ad75"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ServerConfig.ServerConfig.setupConfig() -&gt; ()"
+                  moduleName = "ServerConfig"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/azharuddin1/Documents/iOS/ServerConfig/ServerConfig/ServerConfig.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
